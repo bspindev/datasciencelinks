@@ -1,5 +1,5 @@
 # Data Science Links
-A collection of useful data science links, including tutorials, lectures and reference material
+A collection of useful data science links, including tutorials, lectures and reference material.
 
 
 ## **Reading Data**
