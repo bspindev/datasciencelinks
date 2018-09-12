@@ -89,6 +89,7 @@ A collection of useful data science links, including tutorials, lectures and ref
 [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 
 ### Deep Learning
+A set of deep learning lectures by University of Oxford's professor and Google Deepmind's Nando de Freitas.
 
 [Deep Learning Lecture 4: Regularization, model complexity and data complexity (part 1)](https://www.youtube.com/watch?v=VR0W_PNwLGw)
 
