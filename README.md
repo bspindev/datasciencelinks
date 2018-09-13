@@ -119,6 +119,7 @@ A set of deep learning lectures by University of Oxford's professor and Google D
 
 [Machine learning - Deep learning II, the Google autoencoders and dropout](https://www.youtube.com/watch?v=g4ZmJJWR34Q)
 [Autoencoders](https://www.deeplearningbook.org/contents/autoencoders.html)
+[Github repository with practical exercises for the lectures](https://github.com/oxford-cs-ml-2015/)
 
 ### ANN Sequence Models
 
