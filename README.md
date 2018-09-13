@@ -32,6 +32,12 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+### Information Theory
+
+[Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+
+[Cross Entropy](https://en.wikipedia.org/wiki/Cross_entropy)
+
 ### Evaluation metrics
 
 [Precision & Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
