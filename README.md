@@ -4,7 +4,7 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 ## **Reading Data**
 
-[How to read most commonly used file formats in Data Science (using Python)?](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
+[How to read most commonly used file formats in Data Science (using Python)?](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/){:target="_blank"}
 
 
 ## **Data Preparation/Feature Engineering**
