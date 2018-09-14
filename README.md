@@ -128,6 +128,11 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Github repository with practical exercises for the lectures](https://github.com/oxford-cs-ml-2015/)
 
+
+### Convolutional Neural Networks
+
+[Lecture Collection - Convolutional Neural Networks for Visual Recognition (Stanford)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 ### ANN Sequence Models
 
 [A Must-Read Introduction to Sequence Modelling (with use cases)](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/)
