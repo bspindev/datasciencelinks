@@ -135,6 +135,12 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Course Materials for Stanford CS231n](http://cs231n.github.io/)
 
+### Natural Language Processing with Deep Learning
+
+[Lecture Collection - Natural Language Processing with Deep Learning (Stanford C224n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
+[Course Materials for Stanford CS224n](http://web.stanford.edu/class/cs224n/syllabus.html)
+
 ### ANN Sequence Models
 
 [A Must-Read Introduction to Sequence Modelling (with use cases)](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/)
