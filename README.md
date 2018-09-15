@@ -128,6 +128,7 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Github repository with practical exercises for the lectures](https://github.com/oxford-cs-ml-2015/)
 
+[A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 
 ### Convolutional Neural Networks
 
