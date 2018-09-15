@@ -146,9 +146,13 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710.pdf)
 
-### ANN Sequence Models
+### Recurrent Neural Networks
 
 [A Must-Read Introduction to Sequence Modelling (with use cases)](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/)
+
+[Sequence Modeling: Recurrentand Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
+
+[Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
