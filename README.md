@@ -142,6 +142,10 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Course Materials for Stanford CS224n](http://web.stanford.edu/class/cs224n/syllabus.html)
 
+[Extraction of Salient Sentences from Labelled Documents](https://arxiv.org/pdf/1412.6815.pdf)
+
+[Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710.pdf)
+
 ### ANN Sequence Models
 
 [A Must-Read Introduction to Sequence Modelling (with use cases)](https://www.analyticsvidhya.com/blog/2018/04/sequence-modelling-an-introduction-with-practical-use-cases/)
