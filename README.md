@@ -286,8 +286,11 @@ A set of cheat sheets with common use cases and  usage examples for some of Pyth
 
 [Matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
-### Keras (Python/R)
-Tutorials and guides for  using the Keras high-level deep learning framework.
+### Tensorflow & Keras (Python/R)
+
+[Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
+
+[Keras Guide](https://www.tensorflow.org/guide/keras)
 
 [Keras Beginner Tutorial](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 
