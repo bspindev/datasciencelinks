@@ -1,6 +1,9 @@
 # Data Science Links
 A collection of useful data science links, including tutorials, lectures and reference material.
 
+## **Books**
+
+[Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition (English Edition) ](https://www.amazon.com.br/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF?__mk_pt_BR=ÅMÅŽÕÑ&crid=2HVF9IAVDADNN&keywords=python+machine+learning&qid=1537224677&s=STRING%28kindle-human-store-name%29&sprefix=python+machine+%2Caps%2C259&sr=1-2&ref=sr_1_2)
 
 ## **Reading Data**
 
