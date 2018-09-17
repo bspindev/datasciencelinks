@@ -5,6 +5,8 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition (English Edition) ](https://www.amazon.com.br/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF?__mk_pt_BR=ÅMÅŽÕÑ&crid=2HVF9IAVDADNN&keywords=python+machine+learning&qid=1537224677&s=STRING%28kindle-human-store-name%29&sprefix=python+machine+%2Caps%2C259&sr=1-2&ref=sr_1_2)
 
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com.br/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS/ref=pd_sim_351_2?_encoding=UTF8&pd_rd_i=B06XNKV5TS&pd_rd_r=332e0a54-bacc-11e8-bec8-475d0372adf1&pd_rd_w=vMDee&pd_rd_wg=f6Mti&pf_rd_i=desktop-dp-sims&pf_rd_m=A1ZZFT5FULY4LN&pf_rd_p=d515db61-e263-47cd-b9d9-b33c1db68903&pf_rd_r=QEE3V2QVZDZ6YZ3JGN8E&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=QEE3V2QVZDZ6YZ3JGN8E)
+
 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 
