@@ -294,6 +294,8 @@ A set of cheat sheets with common use cases and  usage examples for some of Pyth
 
 [Keras Beginner Tutorial](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 
+[Stanford CS224d: TensorFlow Tutorial](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+
 [7 Steps to Mastering Deep Learning with Keras](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
 
 [Sequential Model Guide](https://keras.io/getting-started/sequential-model-guide/)
