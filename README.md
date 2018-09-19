@@ -142,6 +142,8 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Course Materials for Stanford CS231n](http://cs231n.github.io/)
 
+[A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)
+
 ### Natural Language Processing with Deep Learning
 
 [Lecture Collection - Natural Language Processing with Deep Learning (Stanford C224n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
