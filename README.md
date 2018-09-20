@@ -100,6 +100,8 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 
+[How Autoencoders work - Understanding the math and implementation](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
+
 ### Deep Learning
 A set of deep learning lectures by Oxford professor and Google Deepmind's Nando de Freitas.
 
