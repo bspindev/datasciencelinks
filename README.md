@@ -170,6 +170,8 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555v1.pdf)
 
+[Code Examples: Modeling Sequential Data Using Recurrent Neural Networks](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch16/ch16.ipynb)
+
 ### Ensemble Learning
 
 [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
