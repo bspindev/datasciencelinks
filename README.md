@@ -320,4 +320,4 @@ A set of cheat sheets with common use cases and  usage examples for some of Pyth
 
 [Building a simple Keras + deep learning REST API](https://blog.keras.io/category/tutorials.html)
 
-[Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras] (https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+[Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
