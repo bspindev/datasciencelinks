@@ -172,6 +172,8 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Code Examples: Modeling Sequential Data Using Recurrent Neural Networks](https://github.com/rasbt/python-machine-learning-book-2nd-edition/blob/master/code/ch16/ch16.ipynb)
 
+[Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
+
 ### Ensemble Learning
 
 [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
