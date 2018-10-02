@@ -102,6 +102,10 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 [How Autoencoders work - Understanding the math and implementation](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
 
+[Applied Deep Learning - Part 3: Autoencoders](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+
+[Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
+
 ### Deep Learning
 A set of deep learning lectures by Oxford professor and Google Deepmind's Nando de Freitas.
 
