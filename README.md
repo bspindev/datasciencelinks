@@ -234,6 +234,7 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Hand-curated, high quality resources for doing data journalism with R](https://rddj.info/)
 
+[Effective Visualization of Multi-Dimensional Data — A Hands-on Approach](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 
 ## **Deployment & Production**
 Guides and tutorials to make R and Python's machine learning code operational in a production environment.
