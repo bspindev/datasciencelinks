@@ -36,6 +36,10 @@ A collection of useful data science links, including tutorials, lectures and ref
 [CatBoost: A machine learning library to handle categorical (CAT) data automatically](https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/)
  
 
+## **Anomaly Detection**
+
+[Precision and Recall for Time Series](https://papers.nips.cc/paper/7462-precision-and-recall-for-time-series.pdf)
+
 ## **Classification & Regression**
 
 ### Information Theory
