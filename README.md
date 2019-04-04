@@ -56,6 +56,8 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 [Model evaluation: quantifying the quality of predictions](http://scikit-learn.org/stable/modules/model_evaluation.html)
 
+[The many faces of ROC analysis in machine learning](http://people.cs.bris.ac.uk/~flach/ICML04tutorial//ROCtutorialPartI.pdf)
+
 ### Imbalanced Data
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
