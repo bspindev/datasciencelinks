@@ -58,6 +58,10 @@ A collection of useful data science links, including tutorials, lectures and ref
 
 [The many faces of ROC analysis in machine learning](http://people.cs.bris.ac.uk/~flach/ICML04tutorial//ROCtutorialPartI.pdf)
 
+[Evaluation metrics: A broader view](http://people.cs.bris.ac.uk/~flach/ICML04tutorial//ROCtutorialPartII.pdf)
+
+[Multi-class ROC](http://people.cs.bris.ac.uk/~flach/ICML04tutorial//ROCtutorialPartIII.pdf)
+
 ### Imbalanced Data
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
