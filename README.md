@@ -208,6 +208,8 @@ A set of deep learning lectures by Oxford professor and Google Deepmind's Nando 
 
 [Building Trust in Machine Learning Models (using LIME in Python)](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)
 
+[SHAP: Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/pdf/1802.03888.pdf)
+
 ### Hyperparameter Tuning
 
 [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
